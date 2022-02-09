@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mattkwid
 - 👀 I’m interested in Dosimetry, Crypto and Music
 - 🌱 I’m currently learning Software Architecture and Agile Development 
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at mattkwid@gmail.com
 
 <!---

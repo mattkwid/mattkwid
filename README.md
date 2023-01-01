@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattkwid
-- 👀 I’m interested in Dosimetry, Crypto, Retry Gaming and Music
+- 👀 I’m interested in Dosimetry, Crypto, Retro Gaming and Music
 - 🌱 I’m currently learning Software Architecture and Agile Development 
 - 📫 Reach me at mattkwid@gmail.com
 
